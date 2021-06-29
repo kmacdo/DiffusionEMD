@@ -4,4 +4,4 @@ matplotlib>=3.0
 pot
 sparseqr
 pygsp
-
+graphtools
